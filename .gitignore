@@ -4,4 +4,3 @@ faker-cli
 */**/*.http
 rev-manifest.json
 gulp-base.js
-db/**/*
